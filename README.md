@@ -67,6 +67,6 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
 
-Last Edited on: 11/12/2020
+
+Last Edited on: 18/02/2026
