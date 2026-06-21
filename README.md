@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20There!%20I'm%20Abdullah%20Khairy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Animator&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%20There!%20I'm%20Abdullah%20Khairy&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+with+.NET+%26+ASP.NET+Core;Exploring+AI+%2F+ML+and+Cloud+Architecture;2D+Animator+in+my+free+time+%F0%9F%8E%A8;Always+up+for+a+good+tech+discussion" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+with+.NET+%26+ASP.NET+Core;Exploring+AI+%2F+ML+and+Cloud+Architecture;Focused+on+Clean%2C+Scalable+Software;Always+up+for+a+good+tech+discussion" alt="Typing SVG" />
 
 </div>
 
@@ -15,16 +15,14 @@ name: Abdullah Khairy
 role: Software Engineer & AI Enthusiast
 education: B.Sc. Computer Science & Artificial Intelligence — Benha University
 currently_learning: [Web Development, AI/ML, Systems Design, Cloud Architecture]
-hobby: 2D Animation 🎬
-fun_fact: I'll probably reply to your email faster than you expect 📬
+location: Egypt
 ```
 
-- 💡 I love exploring new technologies and building practical software solutions
-- 🌱 Currently leveling up in **Web Development**, **AI**, **Systems Design**, and **Cloud Architecture**
-- ✍️ When I'm not coding, I'm animating — 2D animation is my creative outlet
-- 🤝 Open to **pro bono consulting**, volunteering, and interesting conversations
-- 📄 Check out my **[Résumé](https://drive.google.com/file/d/1AzPUDZIadVhv7uftLEanZIthMwQeZDh5/view?usp=drive_link)** — feedback always welcome!
-- 📫 Reach me at **abdallahkhairy71@gmail.com** — I try to respond quickly!
+- 💡 I enjoy exploring new technologies and building practical, scalable software solutions
+- 🌱 Currently deepening my skills in **Web Development**, **AI**, **Systems Design**, and **Cloud Architecture**
+- 🤝 Open to **pro bono consulting**, volunteering, and meaningful technical discussions
+- 📄 Check out my **[Résumé](https://drive.google.com/file/d/1AzPUDZIadVhv7uftLEanZIthMwQeZDh5/view?usp=drive_link)** — feedback always welcome
+- 📫 Reach me at **abdallahkhairy71@gmail.com** — I aim to respond promptly
 
 <br/>
 
@@ -56,12 +54,6 @@ fun_fact: I'll probably reply to your email faster than you expect 📬
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
-### Creative Suite
-<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
-<img src="https://img.shields.io/badge/Moho-FF6B6B?style=for-the-badge&logoColor=white"/>
-
 </div>
 
 <br/>
@@ -70,16 +62,14 @@ fun_fact: I'll probably reply to your email faster than you expect 📬
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdullahKhairy71&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahKhairy71&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdallahkh71&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdallahkh71&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=ffffff" height="170"/>
 
-<img src="https://streak-stats.demolab.com?user=AbdullahKhairy71&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Abdallahkh71&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" height="170"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahKhairy71&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdallahkh71&theme=react-dark&hide_border=true&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff" width="95%"/>
 
 </div>
-
-> **Note:** Replace `AbdullahKhairy71` in the stats URLs above with your actual GitHub username for these widgets to display correctly.
 
 <br/>
 
@@ -99,7 +89,7 @@ fun_fact: I'll probably reply to your email faster than you expect 📬
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=AbdullahKhairy71&style=for-the-badge&color=A855F7&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=Abdallahkh71&style=for-the-badge&color=A855F7&label=Profile+Views"/>
 
 </div>
 
