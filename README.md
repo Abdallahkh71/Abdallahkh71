@@ -22,18 +22,39 @@ I'm open to pro bono consulting, collaboration, and technical discussion — fee
 
 <br/>
 
-## Tech Stack
+## Spheres of expertise
 
 <table>
   <tr>
-    <td valign="top"><strong>Languages</strong><br/><br/>C# · C · C++ · Python · JavaScript</td>
-    <td valign="top"><strong>Backend &amp; Data</strong><br/><br/>ASP.NET Core · Entity Framework · SQL Server</td>
-  </tr>
-  <tr>
-    <td valign="top"><strong>Frontend</strong><br/><br/>HTML5 · CSS3 · Bootstrap · Angular</td>
-    <td valign="top"><strong>Tools</strong><br/><br/>Git · GitHub · VS Code · Markdown</td>
+    <td align="center" width="20%">
+      <strong>Foundations</strong><br/>
+      <sub>AI & ML</sub><br/>
+      <sub>Systems design</sub>
+    </td>
+    <td align="center" width="20%">
+      <strong>Core languages</strong><br/>
+      <sub>C# · Python</sub><br/>
+      <sub>C · C++ · JavaScript</sub>
+    </td>
+    <td align="center" width="20%">
+      <strong>Backend & data</strong><br/>
+      <sub>ASP.NET Core</sub><br/>
+      <sub>Entity Framework · SQL Server</sub>
+    </td>
+    <td align="center" width="20%">
+      <strong>Frontend</strong><br/>
+      <sub>HTML5 · CSS3</sub><br/>
+      <sub>Bootstrap · Angular</sub>
+    </td>
+    <td align="center" width="20%">
+      <strong>Tooling</strong><br/>
+      <sub>Git · GitHub</sub><br/>
+      <sub>VS Code · Markdown</sub>
+    </td>
   </tr>
 </table>
+
+Each sphere represents a distinct area of focus — together they form how I approach a problem: understand the system, choose the right language, build the backend that holds it together, shape the interface around it, and keep the workflow clean throughout.
 
 <br/>
 
